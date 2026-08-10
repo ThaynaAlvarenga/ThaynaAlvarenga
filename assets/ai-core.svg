@@ -1,0 +1,251 @@
+<svg width="700" height="300" viewBox="0 0 700 300"
+xmlns="http://www.w3.org/2000/svg">
+
+<defs>
+
+  <radialGradient id="core">
+    <stop offset="0%" stop-color="#67E8F9"/>
+    <stop offset="35%" stop-color="#22D3EE"/>
+    <stop offset="100%" stop-color="#22D3EE" stop-opacity="0"/>
+  </radialGradient>
+
+  <linearGradient id="line" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" stop-color="#22D3EE" stop-opacity="0"/>
+    <stop offset="50%" stop-color="#22D3EE"/>
+    <stop offset="100%" stop-color="#8B5CF6" stop-opacity="0"/>
+  </linearGradient>
+
+  <filter id="glow">
+    <feGaussianBlur stdDeviation="4" result="blur"/>
+    <feMerge>
+      <feMergeNode in="blur"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+
+</defs>
+
+<!-- ambient glow -->
+
+<circle
+  cx="350"
+  cy="135"
+  r="120"
+  fill="url(#core)"
+  opacity="0.12"
+/>
+
+<!-- horizontal system circuit -->
+
+<path
+  d="M70 135 H250 M450 135 H630"
+  stroke="#1E293B"
+  stroke-width="2"
+/>
+
+<path
+  d="M70 135 H250 M450 135 H630"
+  stroke="url(#line)"
+  stroke-width="2"
+  stroke-dasharray="10 16"
+>
+
+  <animate
+    attributeName="stroke-dashoffset"
+    from="0"
+    to="-52"
+    dur="2s"
+    repeatCount="indefinite"
+  />
+
+</path>
+
+<!-- left nodes -->
+
+<circle
+  cx="90"
+  cy="135"
+  r="7"
+  fill="#22D3EE"
+  filter="url(#glow)"
+/>
+
+<circle
+  cx="180"
+  cy="135"
+  r="4"
+  fill="#22D3EE"
+  opacity="0.7"
+/>
+
+<!-- right nodes -->
+
+<circle
+  cx="520"
+  cy="135"
+  r="4"
+  fill="#6366F1"
+  opacity="0.7"
+/>
+
+<circle
+  cx="610"
+  cy="135"
+  r="7"
+  fill="#8B5CF6"
+  filter="url(#glow)"
+/>
+
+<!-- orbit -->
+
+<ellipse
+  cx="350"
+  cy="135"
+  rx="135"
+  ry="55"
+  fill="none"
+  stroke="#22D3EE"
+  stroke-width="1"
+  stroke-dasharray="4 10"
+  opacity="0.55"
+>
+
+  <animateTransform
+    attributeName="transform"
+    type="rotate"
+    from="0 350 135"
+    to="360 350 135"
+    dur="12s"
+    repeatCount="indefinite"
+  />
+
+</ellipse>
+
+<!-- second orbit -->
+
+<ellipse
+  cx="350"
+  cy="135"
+  rx="100"
+  ry="38"
+  fill="none"
+  stroke="#6366F1"
+  stroke-width="1"
+  stroke-dasharray="2 8"
+  opacity="0.5"
+>
+
+  <animateTransform
+    attributeName="transform"
+    type="rotate"
+    from="360 350 135"
+    to="0 350 135"
+    dur="9s"
+    repeatCount="indefinite"
+  />
+
+</ellipse>
+
+<!-- central core -->
+
+<circle
+  cx="350"
+  cy="135"
+  r="48"
+  fill="#070B10"
+  stroke="#22D3EE"
+  stroke-width="2"
+  filter="url(#glow)"
+/>
+
+<circle
+  cx="350"
+  cy="135"
+  r="28"
+  fill="url(#core)"
+  opacity="0.5"
+>
+
+  <animate
+    attributeName="r"
+    values="22;32;22"
+    dur="2.5s"
+    repeatCount="indefinite"
+  />
+
+</circle>
+
+<circle
+  cx="350"
+  cy="135"
+  r="9"
+  fill="#67E8F9"
+  filter="url(#glow)"
+>
+
+  <animate
+    attributeName="r"
+    values="7;12;7"
+    dur="1.8s"
+    repeatCount="indefinite"
+  />
+
+</circle>
+
+<!-- data pulse -->
+
+<circle
+  cx="70"
+  cy="135"
+  r="4"
+  fill="white"
+  filter="url(#glow)"
+>
+
+  <animate
+    attributeName="cx"
+    values="70;250;350;450;630"
+    dur="4s"
+    repeatCount="indefinite"
+  />
+
+</circle>
+
+<!-- labels -->
+
+<text
+  x="350"
+  y="52"
+  text-anchor="middle"
+  fill="#22D3EE"
+  font-family="monospace"
+  font-size="12"
+  letter-spacing="4"
+>
+AI CORE
+</text>
+
+<text
+  x="350"
+  y="222"
+  text-anchor="middle"
+  fill="#64748B"
+  font-family="monospace"
+  font-size="10"
+  letter-spacing="3"
+>
+ENGINEERING SYSTEM
+</text>
+
+<text
+  x="350"
+  y="245"
+  text-anchor="middle"
+  fill="#22D3EE"
+  font-family="monospace"
+  font-size="10"
+>
+● SYSTEM ONLINE
+</text>
+
+</svg>

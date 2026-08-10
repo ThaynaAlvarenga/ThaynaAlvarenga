@@ -13,9 +13,16 @@
   />
 </p>
 
+<img
+  src="./assets/ai-core.svg"
+  width="700"
+  alt="AI Core"
+/>
+
 `● SYSTEM ONLINE`
 
 </div>
+
 
 </br>
 
