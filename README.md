@@ -180,3 +180,46 @@ Construir sistemas bem estruturados, integráveis e escaláveis,
 transformando problemas reais de negócio em soluções de software.
 ```
 
+<br />
+
+## `> ATIVIDADE_NO_GITHUB`
+
+<div align="center">
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=ThaynaAlvarenga&show_icons=true&hide_border=true&theme=transparent&rank_icon=github"
+  height="165"
+/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThaynaAlvarenga&layout=compact&hide_border=true&theme=transparent"
+  height="165"
+/>
+
+</div>
+
+<br />
+
+## `> CONECTE_SE`
+
+<div align="center">
+
+<a href="SEU_LINK_DO_PORTFOLIO">
+  <img src="https://img.shields.io/badge/Portfólio-070B10?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" />
+</a>
+
+<a href="SEU_LINK_DO_LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-070B10?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<a href="mailto:SEU_EMAIL">
+  <img src="https://img.shields.io/badge/E--mail-070B10?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
+</a>
+
+<a href="https://github.com/ThaynaAlvarenga">
+  <img src="https://img.shields.io/badge/GitHub-070B10?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+</div>
+
+<br />
