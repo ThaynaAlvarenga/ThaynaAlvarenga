@@ -1,3 +1,9 @@
+<!--
+  TODO antes de publicar / TODO before publishing:
+  1) Substitua SEU-LINKEDIN, SEU_EMAIL e os links de case study abaixo.
+  2) Confirme se quer manter os 3 SVGs de case (freight-route, ai-vision-scanner, document-ai) e o novo bloco "promocoes".
+-->
+
 <div align="center">
 
 # THAYNA NUNES
@@ -23,7 +29,6 @@
 
 </div>
 
-
 <br />
 
 ## `> SOBRE_MIM`
@@ -40,8 +45,25 @@ Inteligência Artificial.
 Minha abordagem começa pela compreensão do problema, seguida pelo
 desenho da solução e pela construção de software organizado,
 manutenível, escalável e útil para o negócio.
-
 ```
+
+<details>
+<summary>🇺🇸 <b>Read in English</b></summary>
+
+```text
+I'm a Software Engineer focused on building real-world systems,
+working across frontend, backend services, APIs, integrations
+and automation.
+
+I work mainly with Full Stack Development, Software Architecture,
+Systems Integration, Process Automation and Artificial Intelligence.
+
+My approach starts with understanding the problem, then designing
+the solution, then building software that is organized,
+maintainable, scalable and useful to the business.
+```
+
+</details>
 
 <br />
 
@@ -104,11 +126,11 @@ manutenível, escalável e útil para o negócio.
 
 ### FRONTEND
 
-React  
-Next.js  
-TypeScript  
-JavaScript  
-Tailwind CSS  
+React
+Next.js
+TypeScript
+JavaScript
+Tailwind CSS
 
 </td>
 
@@ -116,11 +138,11 @@ Tailwind CSS
 
 ### BACKEND
 
-Node.js  
-NestJS  
-Python  
-FastAPI  
-REST APIs  
+Node.js
+NestJS
+Python
+FastAPI
+REST APIs
 
 </td>
 
@@ -128,11 +150,11 @@ REST APIs
 
 ### DATA
 
-PostgreSQL  
-MySQL  
-MongoDB  
-Prisma  
-SQL  
+PostgreSQL
+MySQL
+MongoDB
+Prisma
+SQL
 
 </td>
 
@@ -140,10 +162,10 @@ SQL
 
 ### AI
 
-TensorFlow  
-OpenCV  
-Computer Vision  
-Machine Learning  
+TensorFlow
+OpenCV
+Computer Vision
+Machine Learning
 
 </td>
 
@@ -151,11 +173,11 @@ Machine Learning
 
 ### AUTOMATION
 
-APIs  
-Webhooks  
-n8n  
-Process Automation  
-Integrations  
+APIs
+Webhooks
+n8n
+Process Automation
+Integrations
 
 </td>
 
@@ -177,9 +199,11 @@ Integrations
 
 ### ◈
 
-### CONSTRUIR
+### CONSTRUIR · BUILD
 
 Aplicações web completas, do frontend ao backend, conectando interfaces, regras de negócio, APIs e dados.
+<br />
+<sub><i>Full web applications, front to back, connecting interfaces, business rules, APIs and data.</i></sub>
 
 </td>
 
@@ -187,9 +211,11 @@ Aplicações web completas, do frontend ao backend, conectando interfaces, regra
 
 ### ◇
 
-### INTEGRAR
+### INTEGRAR · INTEGRATE
 
 Conectar sistemas, serviços e APIs para transformar diferentes componentes em um fluxo único.
+<br />
+<sub><i>Connecting systems, services and APIs into a single, coherent flow.</i></sub>
 
 </td>
 
@@ -197,9 +223,11 @@ Conectar sistemas, serviços e APIs para transformar diferentes componentes em u
 
 ### ◎
 
-### AUTOMATIZAR
+### AUTOMATIZAR · AUTOMATE
 
 Transformar processos manuais em fluxos digitais mais eficientes, rastreáveis e escaláveis.
+<br />
+<sub><i>Turning manual processes into efficient, traceable, scalable digital flows.</i></sub>
 
 </td>
 
@@ -211,9 +239,11 @@ Transformar processos manuais em fluxos digitais mais eficientes, rastreáveis e
 
 ### ◉
 
-### ANALISAR
+### ANALISAR · ANALYZE
 
 Utilizar dados, processamento e inteligência artificial para apoiar decisões e classificação automatizada.
+<br />
+<sub><i>Using data, processing and AI to support decisions and automated classification.</i></sub>
 
 </td>
 
@@ -221,9 +251,11 @@ Utilizar dados, processamento e inteligência artificial para apoiar decisões e
 
 ### △
 
-### EVOLUIR
+### EVOLUIR · EVOLVE
 
 Projetar sistemas preparados para manutenção, novas integrações e expansão de funcionalidades.
+<br />
+<sub><i>Designing systems ready for maintenance, new integrations and feature growth.</i></sub>
 
 </td>
 
@@ -231,9 +263,11 @@ Projetar sistemas preparados para manutenção, novas integrações e expansão 
 
 ### ∞
 
-### RESOLVER
+### RESOLVER · SOLVE
 
 Partir de problemas reais e transformá-los em soluções de software aplicáveis ao negócio.
+<br />
+<sub><i>Starting from real problems and turning them into applicable business software.</i></sub>
 
 </td>
 
@@ -267,6 +301,12 @@ Partir de problemas reais e transformá-los em soluções de software aplicávei
 `LOGISTICS`
 
 Plataforma para gerenciamento de operações logísticas, conectando processos, transportadoras e acompanhamento operacional.
+<br />
+<sub><i>Platform for logistics operations management, connecting processes, carriers and operational tracking.</i></sub>
+
+<br /><br />
+
+`React` · `TypeScript` · `Node.js` · `REST APIs` · `PostgreSQL`
 
 <br />
 
@@ -292,7 +332,13 @@ Plataforma para gerenciamento de operações logísticas, conectando processos, 
 
 `COMPUTER VISION`
 
-Sistema de classificação de imagens utilizando visão computacional e inteligência artificial.
+Sistema de classificação de imagens com IA e visão computacional — atuação focada na integração e evolução dos módulos do sistema.
+<br />
+<sub><i>AI-powered image classification system with computer vision — focused on integrating and evolving the system's modules.</i></sub>
+
+<br /><br />
+
+`Python` · `TensorFlow` · `OpenCV` · `FastAPI` · `SQLAlchemy`
 
 <br />
 
@@ -318,7 +364,13 @@ Sistema de classificação de imagens utilizando visão computacional e intelig�
 
 `AUTOMATION`
 
-Sistema para processamento e estruturação automatizada de documentos e informações.
+Sistema para processamento e estruturação automatizada de documentos e informações (OCR, extração, validação).
+<br />
+<sub><i>Automated document processing and structuring system (OCR, extraction, validation).</i></sub>
+
+<br /><br />
+
+`Python` · `OCR` · `APIs` · `Automation`
 
 <br />
 
@@ -349,6 +401,18 @@ Sistema para processamento e estruturação automatizada de documentos e informa
 
 <br />
 
+<div align="center">
+
+<sub>
+📦 <b>Outro projeto público</b> · <b>Other public project</b> — <a href="https://github.com/ThaynaAlvarenga/promocoes"><code>ThaynaAlvarenga/promocoes</code></a><br />
+Plataforma Full Stack de promoções do comércio local (TCC) — React, Node.js, Express, MongoDB, JWT, Cloudinary.<br />
+<i>Full Stack local-commerce promotions platform (capstone project) — React, Node.js, Express, MongoDB, JWT, Cloudinary.</i>
+</sub>
+
+</div>
+
+<br />
+
 ## `> FOCO_ATUAL`
 
 ```text
@@ -370,6 +434,31 @@ $ objetivo
 Construir sistemas bem estruturados, integráveis e escaláveis,
 transformando problemas reais de negócio em soluções de software.
 ```
+
+<details>
+<summary>🇺🇸 <b>Read in English</b></summary>
+
+```text
+$ status
+
+[SYSTEM] Active professional profile
+[FOCUS] Software Engineering
+
+$ currently_studying
+
+→ Software Architecture
+→ Full Stack Development
+→ Artificial Intelligence
+→ Systems Integration
+→ Process Automation
+
+$ goal
+
+Building well-structured, integrable and scalable systems,
+turning real business problems into software solutions.
+```
+
+</details>
 
 <br />
 
@@ -412,11 +501,9 @@ transformando problemas reais de negócio em soluções de software.
 [●] COLLABORATION OPEN
 
 SYSTEM READY
-
 ```
----
 
-<div align="center">
+---
 
 <br />
 
