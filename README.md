@@ -17,7 +17,11 @@
 
 </div>
 
-<br />
+<div align="center">
+
+`· · · · · · · · · · · · · · · · · · · · · · · · · · ·`
+
+</div>
 
 ## `> SOBRE_MIM`
 
@@ -36,7 +40,11 @@ manutenível, escalável e útil para o negócio.
 
 ```
 
-<br />
+<div align="center">
+
+`· · · · · · · · · · · · · · · · · · · · · · · · · · ·`
+
+</div>
 
 ## `> COMO_EU_CONSTRUO`
 
@@ -213,7 +221,11 @@ Automação do processamento de documentos e transformação de informações n�
 </tr>
 </table>
 
-<br />
+<div align="center">
+
+`· · · · · · · · · · · · · · · · · · · · · · · · · · ·`
+
+</div>
 
 ## `> FOCO_ATUAL`
 
@@ -237,7 +249,11 @@ Construir sistemas bem estruturados, integráveis e escaláveis,
 transformando problemas reais de negócio em soluções de software.
 ```
 
-<br />
+<div align="center">
+
+`· · · · · · · · · · · · · · · · · · · · · · · · · · ·`
+
+</div>
 
 ## `> CONECTE_SE`
 
