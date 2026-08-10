@@ -182,24 +182,6 @@ transformando problemas reais de negócio em soluções de software.
 
 <br />
 
-## `> ATIVIDADE_NO_GITHUB`
-
-<div align="center">
-
-<img
-  src="https://github-stats-extended.vercel.app/api?username=ThaynaAlvarenga&show_icons=true&hide_border=true&theme=transparent&rank_icon=github"
-  height="165"
-/>
-
-<img
-  src="https://github-stats-extended.vercel.app/api/top-langs/?username=ThaynaAlvarenga&layout=compact&hide_border=true&theme=transparent"
-  height="165"
-/>
-
-</div>
-
-<br />
-
 ## `> CONECTE_SE`
 
 <div align="center">
