@@ -1,0 +1,322 @@
+<svg width="900" height="260" viewBox="0 0 900 260" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+
+    <linearGradient id="lineGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#22D3EE"/>
+      <stop offset="50%" stop-color="#3B82F6"/>
+      <stop offset="100%" stop-color="#8B5CF6"/>
+    </linearGradient>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+  </defs>
+
+  <!-- Connection line -->
+
+  <line
+    x1="80"
+    y1="130"
+    x2="820"
+    y2="130"
+    stroke="#172033"
+    stroke-width="2"
+  />
+
+  <line
+    x1="80"
+    y1="130"
+    x2="820"
+    y2="130"
+    stroke="url(#lineGradient)"
+    stroke-width="2"
+    stroke-dasharray="8 14"
+    opacity="0.8"
+  >
+
+    <animate
+      attributeName="stroke-dashoffset"
+      from="0"
+      to="-44"
+      dur="2s"
+      repeatCount="indefinite"
+    />
+
+  </line>
+
+  <!-- NODE 01 -->
+
+  <g>
+
+    <circle
+      cx="80"
+      cy="130"
+      r="32"
+      fill="#070B10"
+      stroke="#22D3EE"
+      stroke-width="2"
+    />
+
+    <circle
+      cx="80"
+      cy="130"
+      r="7"
+      fill="#22D3EE"
+      filter="url(#glow)"
+    />
+
+    <text
+      x="80"
+      y="78"
+      text-anchor="middle"
+      fill="#22D3EE"
+      font-family="monospace"
+      font-size="11"
+    >
+      01
+    </text>
+
+    <text
+      x="80"
+      y="190"
+      text-anchor="middle"
+      fill="#E2E8F0"
+      font-family="monospace"
+      font-size="12"
+      font-weight="bold"
+    >
+      PROBLEM
+    </text>
+
+  </g>
+
+  <!-- NODE 02 -->
+
+  <g>
+
+    <circle
+      cx="265"
+      cy="130"
+      r="32"
+      fill="#070B10"
+      stroke="#22D3EE"
+      stroke-width="2"
+    />
+
+    <circle
+      cx="265"
+      cy="130"
+      r="7"
+      fill="#22D3EE"
+      filter="url(#glow)"
+    />
+
+    <text
+      x="265"
+      y="78"
+      text-anchor="middle"
+      fill="#22D3EE"
+      font-family="monospace"
+      font-size="11"
+    >
+      02
+    </text>
+
+    <text
+      x="265"
+      y="190"
+      text-anchor="middle"
+      fill="#E2E8F0"
+      font-family="monospace"
+      font-size="12"
+      font-weight="bold"
+    >
+      ARCHITECTURE
+    </text>
+
+  </g>
+
+  <!-- NODE 03 -->
+
+  <g>
+
+    <circle
+      cx="450"
+      cy="130"
+      r="32"
+      fill="#070B10"
+      stroke="#3B82F6"
+      stroke-width="2"
+    />
+
+    <circle
+      cx="450"
+      cy="130"
+      r="7"
+      fill="#3B82F6"
+      filter="url(#glow)"
+    />
+
+    <text
+      x="450"
+      y="78"
+      text-anchor="middle"
+      fill="#3B82F6"
+      font-family="monospace"
+      font-size="11"
+    >
+      03
+    </text>
+
+    <text
+      x="450"
+      y="190"
+      text-anchor="middle"
+      fill="#E2E8F0"
+      font-family="monospace"
+      font-size="12"
+      font-weight="bold"
+    >
+      DEVELOPMENT
+    </text>
+
+  </g>
+
+  <!-- NODE 04 -->
+
+  <g>
+
+    <circle
+      cx="635"
+      cy="130"
+      r="32"
+      fill="#070B10"
+      stroke="#6366F1"
+      stroke-width="2"
+    />
+
+    <circle
+      cx="635"
+      cy="130"
+      r="7"
+      fill="#6366F1"
+      filter="url(#glow)"
+    />
+
+    <text
+      x="635"
+      y="78"
+      text-anchor="middle"
+      fill="#6366F1"
+      font-family="monospace"
+      font-size="11"
+    >
+      04
+    </text>
+
+    <text
+      x="635"
+      y="190"
+      text-anchor="middle"
+      fill="#E2E8F0"
+      font-family="monospace"
+      font-size="12"
+      font-weight="bold"
+    >
+      INTEGRATION
+    </text>
+
+  </g>
+
+  <!-- NODE 05 -->
+
+  <g>
+
+    <circle
+      cx="820"
+      cy="130"
+      r="32"
+      fill="#070B10"
+      stroke="#8B5CF6"
+      stroke-width="2"
+    />
+
+    <circle
+      cx="820"
+      cy="130"
+      r="7"
+      fill="#8B5CF6"
+      filter="url(#glow)"
+    />
+
+    <text
+      x="820"
+      y="78"
+      text-anchor="middle"
+      fill="#8B5CF6"
+      font-family="monospace"
+      font-size="11"
+    >
+      05
+    </text>
+
+    <text
+      x="820"
+      y="190"
+      text-anchor="middle"
+      fill="#E2E8F0"
+      font-family="monospace"
+      font-size="12"
+      font-weight="bold"
+    >
+      SYSTEM
+    </text>
+
+  </g>
+
+  <!-- Animated signal -->
+
+  <circle
+    cx="80"
+    cy="130"
+    r="4"
+    fill="#FFFFFF"
+    filter="url(#glow)"
+  >
+
+    <animate
+      attributeName="cx"
+      values="80;265;450;635;820"
+      dur="5s"
+      repeatCount="indefinite"
+    />
+
+    <animate
+      attributeName="opacity"
+      values="1;1;1;1;0"
+      dur="5s"
+      repeatCount="indefinite"
+    />
+
+  </circle>
+
+  <!-- Caption -->
+
+  <text
+    x="450"
+    y="235"
+    text-anchor="middle"
+    fill="#64748B"
+    font-family="monospace"
+    font-size="11"
+  >
+    ENGINEERING WORKFLOW
+  </text>
+
+</svg>

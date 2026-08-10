@@ -38,6 +38,20 @@ manutenível, escalável e útil para o negócio.
 
 <br />
 
+## `> COMO_EU_CONSTRUO`
+
+<div align="center">
+
+<img
+  src="./assets/engineering-pipeline.svg"
+  width="850"
+  alt="Fluxo de engenharia de software"
+/>
+
+</div>
+
+<br />
+
 ## `> TECNOLOGIAS`
 
 ### Frontend

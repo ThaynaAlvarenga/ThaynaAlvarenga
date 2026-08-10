@@ -1,11 +1,18 @@
-<svg width="180" height="180" viewBox="0 0 180 180" xmlns="http://www.w3.org/2000/svg">
+<svg width="300" height="300" viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg">
 
   <defs>
-    <radialGradient id="core" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#67e8f9"/>
-      <stop offset="45%" stop-color="#22d3ee"/>
-      <stop offset="100%" stop-color="#0f172a"/>
+
+    <radialGradient id="coreGlow">
+      <stop offset="0%" stop-color="#22D3EE" stop-opacity="0.95"/>
+      <stop offset="35%" stop-color="#22D3EE" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#22D3EE" stop-opacity="0"/>
     </radialGradient>
+
+    <linearGradient id="ringGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#22D3EE"/>
+      <stop offset="50%" stop-color="#3B82F6"/>
+      <stop offset="100%" stop-color="#8B5CF6"/>
+    </linearGradient>
 
     <filter id="glow">
       <feGaussianBlur stdDeviation="4" result="blur"/>
@@ -14,108 +21,161 @@
         <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
+
   </defs>
 
-  <!-- Outer orbital ring -->
+  <!-- Background glow -->
+
   <circle
-    cx="90"
-    cy="90"
-    r="68"
+    cx="150"
+    cy="150"
+    r="105"
+    fill="url(#coreGlow)"
+    opacity="0.35"
+  />
+
+  <!-- Outer rotating ring -->
+
+  <circle
+    cx="150"
+    cy="150"
+    r="105"
     fill="none"
-    stroke="#164e63"
+    stroke="url(#ringGradient)"
     stroke-width="1"
-    stroke-dasharray="4 8"
-    opacity="0.8">
+    stroke-dasharray="5 12"
+    opacity="0.55"
+  >
 
     <animateTransform
       attributeName="transform"
       type="rotate"
-      from="0 90 90"
-      to="360 90 90"
-      dur="12s"
-      repeatCount="indefinite"/>
+      from="0 150 150"
+      to="360 150 150"
+      dur="18s"
+      repeatCount="indefinite"
+    />
+
   </circle>
 
-  <!-- Inner orbital ring -->
-  <ellipse
-    cx="90"
-    cy="90"
-    rx="52"
-    ry="22"
+  <!-- Second ring -->
+
+  <circle
+    cx="150"
+    cy="150"
+    r="82"
     fill="none"
-    stroke="#22d3ee"
+    stroke="#22D3EE"
     stroke-width="1"
-    opacity="0.6">
+    stroke-dasharray="2 8"
+    opacity="0.7"
+  >
 
     <animateTransform
       attributeName="transform"
       type="rotate"
-      from="0 90 90"
-      to="360 90 90"
-      dur="6s"
-      repeatCount="indefinite"/>
-  </ellipse>
+      from="360 150 150"
+      to="0 150 150"
+      dur="12s"
+      repeatCount="indefinite"
+    />
 
-  <!-- Core glow -->
+  </circle>
+
+  <!-- Connection lines -->
+
+  <g
+    stroke="#22D3EE"
+    stroke-width="1"
+    opacity="0.45"
+  >
+
+    <line x1="150" y1="67" x2="150" y2="108"/>
+    <line x1="150" y1="192" x2="150" y2="233"/>
+
+    <line x1="67" y1="150" x2="108" y2="150"/>
+    <line x1="192" y1="150" x2="233" y2="150"/>
+
+    <line x1="91" y1="91" x2="121" y2="121"/>
+    <line x1="179" y1="179" x2="209" y2="209"/>
+
+    <line x1="209" y1="91" x2="179" y2="121"/>
+    <line x1="121" y1="179" x2="91" y2="209"/>
+
+  </g>
+
+  <!-- Orbit nodes -->
+
+  <g fill="#22D3EE" filter="url(#glow)">
+
+    <circle cx="150" cy="67" r="4"/>
+    <circle cx="150" cy="233" r="4"/>
+    <circle cx="67" cy="150" r="4"/>
+    <circle cx="233" cy="150" r="4"/>
+
+  </g>
+
+  <!-- Central core -->
+
   <circle
-    cx="90"
-    cy="90"
-    r="27"
-    fill="url(#core)"
-    filter="url(#glow)">
+    cx="150"
+    cy="150"
+    r="42"
+    fill="#070B10"
+    stroke="#22D3EE"
+    stroke-width="2"
+  />
+
+  <circle
+    cx="150"
+    cy="150"
+    r="25"
+    fill="#22D3EE"
+    opacity="0.12"
+  >
 
     <animate
       attributeName="r"
-      values="25;29;25"
-      dur="2s"
-      repeatCount="indefinite"/>
+      values="22;28;22"
+      dur="3s"
+      repeatCount="indefinite"
+    />
+
+    <animate
+      attributeName="opacity"
+      values="0.10;0.25;0.10"
+      dur="3s"
+      repeatCount="indefinite"
+    />
+
   </circle>
 
   <!-- Core -->
+
   <circle
-    cx="90"
-    cy="90"
-    r="9"
-    fill="#e0f2fe">
+    cx="150"
+    cy="150"
+    r="10"
+    fill="#22D3EE"
+    filter="url(#glow)"
+  >
 
     <animate
-      attributeName="opacity"
-      values="1;0.65;1"
-      dur="1.5s"
-      repeatCount="indefinite"/>
-  </circle>
-
-  <!-- Orbit nodes -->
-  <circle cx="90" cy="22" r="3" fill="#22d3ee">
-    <animate
-      attributeName="opacity"
-      values="1;0.3;1"
-      dur="1.8s"
-      repeatCount="indefinite"/>
-  </circle>
-
-  <circle cx="158" cy="90" r="3" fill="#22d3ee">
-    <animate
-      attributeName="opacity"
-      values="0.3;1;0.3"
-      dur="2.2s"
-      repeatCount="indefinite"/>
-  </circle>
-
-  <circle cx="90" cy="158" r="3" fill="#22d3ee">
-    <animate
-      attributeName="opacity"
-      values="1;0.3;1"
+      attributeName="r"
+      values="8;12;8"
       dur="2s"
-      repeatCount="indefinite"/>
+      repeatCount="indefinite"
+    />
+
   </circle>
 
-  <circle cx="22" cy="90" r="3" fill="#22d3ee">
-    <animate
-      attributeName="opacity"
-      values="0.3;1;0.3"
-      dur="1.7s"
-      repeatCount="indefinite"/>
-  </circle>
+  <!-- Inner core symbol -->
+
+  <circle
+    cx="150"
+    cy="150"
+    r="3"
+    fill="#FFFFFF"
+  />
 
 </svg>
