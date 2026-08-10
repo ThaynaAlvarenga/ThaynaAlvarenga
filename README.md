@@ -187,12 +187,12 @@ transformando problemas reais de negócio em soluções de software.
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=ThaynaAlvarenga&show_icons=true&hide_border=true&theme=transparent&rank_icon=github"
+  src="https://github-stats-extended.vercel.app/api?username=ThaynaAlvarenga&show_icons=true&hide_border=true&theme=transparent&rank_icon=github"
   height="165"
 />
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThaynaAlvarenga&layout=compact&hide_border=true&theme=transparent"
+  src="https://github-stats-extended.vercel.app/api/top-langs/?username=ThaynaAlvarenga&layout=compact&hide_border=true&theme=transparent"
   height="165"
 />
 
@@ -208,11 +208,11 @@ transformando problemas reais de negócio em soluções de software.
   <img src="https://img.shields.io/badge/Portfólio-070B10?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" />
 </a>
 
-<a href="SEU_LINK_DO_LINKEDIN">
+<a href="https://www.linkedin.com/in/thayna-nunes-alvarenga">
   <img src="https://img.shields.io/badge/LinkedIn-070B10?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
-<a href="mailto:SEU_EMAIL">
+<a href="mailto:thaynanunes385@gmail.com">
   <img src="https://img.shields.io/badge/E--mail-070B10?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
 </a>
 
