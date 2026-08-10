@@ -24,7 +24,7 @@
 </div>
 
 
-</br>
+<br />
 
 ## `> SOBRE_MIM`
 
@@ -43,7 +43,7 @@ manutenível, escalável e útil para o negócio.
 
 ```
 
-</br>
+<br />
 
 ## `> COMO_EU_CONSTRUO`
 
@@ -245,104 +245,6 @@ Partir de problemas reais e transformá-los em soluções de software aplicávei
 
 <br />
 
-## `> ENGENHARIA`
-
-<div align="center">
-
-<table>
-<tr>
-
-<td width="25%" valign="top">
-
-<div align="center">
-
-### `01`
-
-### FULL STACK
-
-</div>
-
-Construção de aplicações completas, conectando interfaces, APIs, regras de negócio e persistência de dados.
-
-<br />
-
-`Frontend`  
-`Backend`  
-`REST APIs`  
-`Database`
-
-</td>
-
-<td width="25%" valign="top">
-
-<div align="center">
-
-### `02`
-
-### ARQUITETURA
-
-</div>
-
-Estruturação de sistemas com foco em organização, manutenção, integração e evolução.
-
-<br />
-
-`Architecture`  
-`Design Patterns`  
-`Scalability`  
-`Maintainability`
-
-</td>
-
-<td width="25%" valign="top">
-
-<div align="center">
-
-### `03`
-
-### INTEGRAÇÃO
-
-</div>
-
-Conexão entre APIs, serviços e diferentes sistemas para construir fluxos digitais integrados.
-
-<br />
-
-`REST APIs`  
-`Services`  
-`Webhooks`  
-`Integrations`
-
-</td>
-
-<td width="25%" valign="top">
-
-<div align="center">
-
-### `04`
-
-### IA & AUTOMAÇÃO
-
-</div>
-
-Aplicação de inteligência artificial, visão computacional e automação para resolver processos reais.
-
-<br />
-
-`AI`  
-`Computer Vision`  
-`Automation`  
-`Machine Learning`
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
-<br />
-
 ## `> FEATURED_CASES`
 
 <div align="center">
@@ -446,135 +348,6 @@ Sistema para processamento e estruturação automatizada de documentos e informa
 </div>
 
 <br />
-
-## `> PROJETOS_EM_DESTAQUE`
-
-<table>
-<tr>
-
-<td width="33%" valign="top">
-
-<div align="center">
-
-### 🚚
-
-### FREIGHT OPERATIONS
-
-`LOGISTICS PLATFORM`
-
-</div>
-
----
-
-**Problema**
-
-Gestão de operações de frete envolvendo programação, cotação, negociação, transportadoras e acompanhamento operacional.
-
-**Sistema**
-
-- Fluxos logísticos
-- Regras de negócio
-- Interfaces corporativas
-- Integração de perfis
-
-**Stack**
-
-`React` `TypeScript` `Node.js`
-
-<div align="center">
-
-<a href="SEU_LINK_DO_CASE_FREIGHT">
-  <img src="https://img.shields.io/badge/VER_CASE-070B10?style=for-the-badge&logo=github&logoColor=22D3EE" />
-</a>
-
-</div>
-
-</td>
-
-<td width="33%" valign="top">
-
-<div align="center">
-
-### 👁️
-
-### AI VISION
-
-`COMPUTER VISION`
-
-</div>
-
----
-
-**Problema**
-
-Automação da classificação de imagens capturadas durante um processo operacional.
-
-**Sistema**
-
-- Captura de imagens
-- Processamento por IA
-- Classificação automática
-- API de feedback
-- Relatórios
-
-**Stack**
-
-`Python` `TensorFlow` `OpenCV`
-
-<div align="center">
-
-<a href="SEU_LINK_DO_CASE_AI_VISION">
-  <img src="https://img.shields.io/badge/VER_CASE-070B10?style=for-the-badge&logo=github&logoColor=22D3EE" />
-</a>
-
-</div>
-
-</td>
-
-<td width="33%" valign="top">
-
-<div align="center">
-
-### 📄
-
-### DOCUMENT AI
-
-`DOCUMENT AUTOMATION`
-
-</div>
-
----
-
-**Problema**
-
-Automação do processamento de documentos e transformação de informações não estruturadas em dados organizados.
-
-**Sistema**
-
-- OCR
-- Extração de informações
-- Validação
-- Estruturação de dados
-- Automação
-
-**Stack**
-
-`Python` `OCR` `APIs`
-
-<div align="center">
-
-<a href="SEU_LINK_DO_CASE_DOCUMENT_AI">
-  <img src="https://img.shields.io/badge/VER_CASE-070B10?style=for-the-badge&logo=github&logoColor=22D3EE" />
-</a>
-
-</div>
-
-</td>
-
-</tr>
-</table>
-
-</br>
 
 ## `> FOCO_ATUAL`
 
