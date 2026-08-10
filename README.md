@@ -15,3 +15,58 @@
 `● SYSTEM ONLINE`
 
 </div>
+
+<br />
+
+## `> SOBRE_MIM`
+
+```text
+Sou Engenheira de Software com foco no desenvolvimento de sistemas
+reais, atuando desde experiências frontend até serviços backend,
+APIs, integrações e automações.
+
+Atuo principalmente com Desenvolvimento Full Stack, Arquitetura de
+Software, Integração de Sistemas, Automação de Processos e
+Inteligência Artificial.
+
+Minha abordagem começa pela compreensão do problema, seguida pelo
+desenho da solução e pela construção de software organizado,
+manutenível, escalável e útil para o negócio.
+
+```
+
+<br />
+
+## `> TECNOLOGIAS`
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+</p>
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,python" />
+</p>
+
+### Banco de Dados
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase" />
+</p>
+
+### Inteligência Artificial & Automação
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv" />
+</p>
+
+### Ferramentas & Infraestrutura
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux" />
+</p>
+
+<br />
