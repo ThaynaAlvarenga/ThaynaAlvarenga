@@ -17,11 +17,7 @@
 
 </div>
 
-<div align="center">
-
-`· · · · · · · · · · · · · · · · · · · · · · · · · · ·`
-
-</div>
+</br>
 
 ## `> SOBRE_MIM`
 
@@ -40,11 +36,7 @@ manutenível, escalável e útil para o negócio.
 
 ```
 
-<div align="center">
-
-`· · · · · · · · · · · · · · · · · · · · · · · · · · ·`
-
-</div>
+</br>
 
 ## `> COMO_EU_CONSTRUO`
 
@@ -91,6 +83,104 @@ manutenível, escalável e útil para o negócio.
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,linux" />
 </p>
+
+<br />
+
+## `> ENGENHARIA`
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="25%" valign="top">
+
+<div align="center">
+
+### `01`
+
+### FULL STACK
+
+</div>
+
+Construção de aplicações completas, conectando interfaces, APIs, regras de negócio e persistência de dados.
+
+<br />
+
+`Frontend`  
+`Backend`  
+`REST APIs`  
+`Database`
+
+</td>
+
+<td width="25%" valign="top">
+
+<div align="center">
+
+### `02`
+
+### ARQUITETURA
+
+</div>
+
+Estruturação de sistemas com foco em organização, manutenção, integração e evolução.
+
+<br />
+
+`Architecture`  
+`Design Patterns`  
+`Scalability`  
+`Maintainability`
+
+</td>
+
+<td width="25%" valign="top">
+
+<div align="center">
+
+### `03`
+
+### INTEGRAÇÃO
+
+</div>
+
+Conexão entre APIs, serviços e diferentes sistemas para construir fluxos digitais integrados.
+
+<br />
+
+`REST APIs`  
+`Services`  
+`Webhooks`  
+`Integrations`
+
+</td>
+
+<td width="25%" valign="top">
+
+<div align="center">
+
+### `04`
+
+### IA & AUTOMAÇÃO
+
+</div>
+
+Aplicação de inteligência artificial, visão computacional e automação para resolver processos reais.
+
+<br />
+
+`AI`  
+`Computer Vision`  
+`Automation`  
+`Machine Learning`
+
+</td>
+
+</tr>
+</table>
+
+</div>
 
 <br />
 
@@ -221,11 +311,7 @@ Automação do processamento de documentos e transformação de informações n�
 </tr>
 </table>
 
-<div align="center">
-
-`· · · · · · · · · · · · · · · · · · · · · · · · · · ·`
-
-</div>
+</br>
 
 ## `> FOCO_ATUAL`
 
@@ -249,11 +335,7 @@ Construir sistemas bem estruturados, integráveis e escaláveis,
 transformando problemas reais de negócio em soluções de software.
 ```
 
-<div align="center">
-
-`· · · · · · · · · · · · · · · · · · · · · · · · · · ·`
-
-</div>
+</br>
 
 ## `> CONECTE_SE`
 
