@@ -6,11 +6,12 @@
 
 `ARCHITECTURE` · `SYSTEMS INTEGRATION` · `AUTOMATION` · `AI`
 
-<br />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=Initializing+engineering+profile...;Building+real-world+software+systems;Full+Stack+%7C+Architecture+%7C+AI+%7C+Automation;System+online." alt="Typing Animation" />
-
-<br />
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Initializing+engineering+profile...;Building+real-world+software+systems;Designing+scalable+digital+solutions;Connecting+code%2C+systems+and+AI;System+online"
+    alt="Typing Animation"
+  />
+</p>
 
 `● SYSTEM ONLINE`
 
@@ -204,4 +205,28 @@ transformando problemas reais de negócio em soluções de software.
 
 </div>
 
-<br />
+---
+
+<div align="center">
+
+<img src="./assets/system-core.svg" width="140" alt="System Core">
+
+### `SYSTEM STATUS: ONLINE`
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=3500&pause=1200&color=22D3EE&center=true&vCenter=true&width=600&lines=%3E+connection+established;%3E+engineering+profile+loaded;%3E+systems+ready;%3E+ready+to+build"
+  alt="System Status"
+/>
+
+<br><br>
+
+`BUILD` · `INTEGRATE` · `AUTOMATE` · `INNOVATE`
+
+<br><br>
+
+<sub>
+Transformando problemas reais em sistemas de software.
+</sub>
+
+</div>
+
