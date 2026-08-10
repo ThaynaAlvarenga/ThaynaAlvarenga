@@ -86,6 +86,158 @@ manutenível, escalável e útil para o negócio.
 
 <br />
 
+## `> ENGINEERING_STACK`
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="20%" align="center">
+
+### FRONTEND
+
+React  
+Next.js  
+TypeScript  
+JavaScript  
+Tailwind CSS  
+
+</td>
+
+<td width="20%" align="center">
+
+### BACKEND
+
+Node.js  
+NestJS  
+Python  
+FastAPI  
+REST APIs  
+
+</td>
+
+<td width="20%" align="center">
+
+### DATA
+
+PostgreSQL  
+MySQL  
+MongoDB  
+Prisma  
+SQL  
+
+</td>
+
+<td width="20%" align="center">
+
+### AI
+
+TensorFlow  
+OpenCV  
+Computer Vision  
+Machine Learning  
+
+</td>
+
+<td width="20%" align="center">
+
+### AUTOMATION
+
+APIs  
+Webhooks  
+n8n  
+Process Automation  
+Integrations  
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<br />
+
+## `> SYSTEM_CAPABILITIES`
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="33%" align="center">
+
+### ◈
+
+### CONSTRUIR
+
+Aplicações web completas, do frontend ao backend, conectando interfaces, regras de negócio, APIs e dados.
+
+</td>
+
+<td width="33%" align="center">
+
+### ◇
+
+### INTEGRAR
+
+Conectar sistemas, serviços e APIs para transformar diferentes componentes em um fluxo único.
+
+</td>
+
+<td width="33%" align="center">
+
+### ◎
+
+### AUTOMATIZAR
+
+Transformar processos manuais em fluxos digitais mais eficientes, rastreáveis e escaláveis.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="33%" align="center">
+
+### ◉
+
+### ANALISAR
+
+Utilizar dados, processamento e inteligência artificial para apoiar decisões e classificação automatizada.
+
+</td>
+
+<td width="33%" align="center">
+
+### △
+
+### EVOLUIR
+
+Projetar sistemas preparados para manutenção, novas integrações e expansão de funcionalidades.
+
+</td>
+
+<td width="33%" align="center">
+
+### ∞
+
+### RESOLVER
+
+Partir de problemas reais e transformá-los em soluções de software aplicáveis ao negócio.
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+<br />
+
 ## `> ENGENHARIA`
 
 <div align="center">
@@ -179,20 +331,6 @@ Aplicação de inteligência artificial, visão computacional e automação para
 
 </tr>
 </table>
-
-</div>
-
-<br />
-
-## `> ATIVIDADE_NO_GITHUB`
-
-<div align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=ThaynaAlvarenga&bg_color=070B10&color=22D3EE&line=3B82F6&point=22D3EE&area=true&hide_border=true"
-  width="95%"
-  alt="Atividade no GitHub"
-/>
 
 </div>
 
