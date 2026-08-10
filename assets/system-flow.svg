@@ -1,0 +1,323 @@
+<svg width="900" height="360" viewBox="0 0 900 360"
+xmlns="http://www.w3.org/2000/svg">
+
+<defs>
+
+  <linearGradient id="flow" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" stop-color="#22D3EE"/>
+    <stop offset="50%" stop-color="#3B82F6"/>
+    <stop offset="100%" stop-color="#8B5CF6"/>
+  </linearGradient>
+
+  <filter id="glow">
+    <feGaussianBlur stdDeviation="4" result="blur"/>
+    <feMerge>
+      <feMergeNode in="blur"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+
+</defs>
+
+<!-- background -->
+
+<rect
+  width="900"
+  height="360"
+  rx="16"
+  fill="#070B10"
+/>
+
+<!-- title -->
+
+<text
+  x="450"
+  y="42"
+  text-anchor="middle"
+  fill="#22D3EE"
+  font-family="monospace"
+  font-size="12"
+  letter-spacing="4"
+>
+SYSTEM FLOW
+</text>
+
+<text
+  x="450"
+  y="64"
+  text-anchor="middle"
+  fill="#475569"
+  font-family="monospace"
+  font-size="9"
+  letter-spacing="2"
+>
+REAL-WORLD SOFTWARE ENGINEERING
+</text>
+
+<!-- central vertical -->
+
+<line
+  x1="450"
+  y1="115"
+  x2="450"
+  y2="285"
+  stroke="#172033"
+  stroke-width="2"
+/>
+
+<!-- left branch -->
+
+<path
+  d="M150 125 H330 Q450 125 450 180"
+  fill="none"
+  stroke="#22D3EE"
+  stroke-width="2"
+  stroke-dasharray="8 10"
+>
+
+  <animate
+    attributeName="stroke-dashoffset"
+    from="0"
+    to="-36"
+    dur="2s"
+    repeatCount="indefinite"
+  />
+
+</path>
+
+<!-- center branch -->
+
+<path
+  d="M450 125 V180"
+  fill="none"
+  stroke="#3B82F6"
+  stroke-width="2"
+  stroke-dasharray="8 10"
+>
+
+  <animate
+    attributeName="stroke-dashoffset"
+    from="0"
+    to="-36"
+    dur="2s"
+    repeatCount="indefinite"
+  />
+
+</path>
+
+<!-- right branch -->
+
+<path
+  d="M750 125 H570 Q450 125 450 180"
+  fill="none"
+  stroke="#8B5CF6"
+  stroke-width="2"
+  stroke-dasharray="8 10"
+>
+
+  <animate
+    attributeName="stroke-dashoffset"
+    from="0"
+    to="-36"
+    dur="2s"
+    repeatCount="indefinite"
+  />
+
+</path>
+
+<!-- left node -->
+
+<rect
+  x="75"
+  y="95"
+  width="150"
+  height="65"
+  rx="8"
+  fill="#0B1118"
+  stroke="#22D3EE"
+/>
+
+<text
+  x="150"
+  y="120"
+  text-anchor="middle"
+  fill="#22D3EE"
+  font-family="monospace"
+  font-size="11"
+>
+LOGISTICS
+</text>
+
+<text
+  x="150"
+  y="140"
+  text-anchor="middle"
+  fill="#64748B"
+  font-family="monospace"
+  font-size="8"
+>
+FREIGHT OPERATIONS
+</text>
+
+<!-- center node -->
+
+<rect
+  x="375"
+  y="95"
+  width="150"
+  height="65"
+  rx="8"
+  fill="#0B1118"
+  stroke="#3B82F6"
+/>
+
+<text
+  x="450"
+  y="120"
+  text-anchor="middle"
+  fill="#3B82F6"
+  font-family="monospace"
+  font-size="11"
+>
+AI VISION
+</text>
+
+<text
+  x="450"
+  y="140"
+  text-anchor="middle"
+  fill="#64748B"
+  font-family="monospace"
+  font-size="8"
+>
+COMPUTER VISION
+</text>
+
+<!-- right node -->
+
+<rect
+  x="675"
+  y="95"
+  width="150"
+  height="65"
+  rx="8"
+  fill="#0B1118"
+  stroke="#8B5CF6"
+/>
+
+<text
+  x="750"
+  y="120"
+  text-anchor="middle"
+  fill="#8B5CF6"
+  font-family="monospace"
+  font-size="11"
+>
+DOCUMENT AI
+</text>
+
+<text
+  x="750"
+  y="140"
+  text-anchor="middle"
+  fill="#64748B"
+  font-family="monospace"
+  font-size="8"
+>
+AUTOMATION
+</text>
+
+<!-- central processing -->
+
+<circle
+  cx="450"
+  cy="205"
+  r="35"
+  fill="#070B10"
+  stroke="url(#flow)"
+  stroke-width="2"
+  filter="url(#glow)"
+/>
+
+<circle
+  cx="450"
+  cy="205"
+  r="12"
+  fill="#22D3EE"
+  opacity="0.8"
+>
+
+  <animate
+    attributeName="r"
+    values="9;15;9"
+    dur="2s"
+    repeatCount="indefinite"
+  />
+
+</circle>
+
+<text
+  x="450"
+  y="255"
+  text-anchor="middle"
+  fill="#64748B"
+  font-family="monospace"
+  font-size="8"
+>
+ENGINEERING
+</text>
+
+<!-- output line -->
+
+<path
+  d="M450 240 V285"
+  stroke="url(#flow)"
+  stroke-width="2"
+  stroke-dasharray="7 8"
+>
+
+  <animate
+    attributeName="stroke-dashoffset"
+    from="0"
+    to="-30"
+    dur="1.5s"
+    repeatCount="indefinite"
+  />
+
+</path>
+
+<!-- output -->
+
+<rect
+  x="275"
+  y="285"
+  width="350"
+  height="45"
+  rx="8"
+  fill="#0B1118"
+  stroke="#1E293B"
+/>
+
+<text
+  x="450"
+  y="305"
+  text-anchor="middle"
+  fill="#E2E8F0"
+  font-family="monospace"
+  font-size="10"
+>
+REAL-WORLD SOFTWARE
+</text>
+
+<text
+  x="450"
+  y="319"
+  text-anchor="middle"
+  fill="#22D3EE"
+  font-family="monospace"
+  font-size="8"
+>
+INTEGRATED · AUTOMATED · SCALABLE
+</text>
+
+</svg>

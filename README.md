@@ -435,6 +435,18 @@ Sistema para processamento e estruturação automatizada de documentos e informa
 
 <br />
 
+<div align="center">
+
+<img
+  src="./assets/system-flow.svg"
+  width="850"
+  alt="System Flow"
+/>
+
+</div>
+
+<br />
+
 ## `> PROJETOS_EM_DESTAQUE`
 
 <table>
@@ -586,52 +598,74 @@ Construir sistemas bem estruturados, integráveis e escaláveis,
 transformando problemas reais de negócio em soluções de software.
 ```
 
-</br>
+<br />
 
 ## `> CONECTE_SE`
 
 <div align="center">
 
-<a href="SEU_LINK_DO_PORTFOLIO">
-  <img src="https://img.shields.io/badge/Portfólio-070B10?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" />
+<a href="https://www.linkedin.com/in/SEU-LINKEDIN/" target="_blank">
+  <img
+    src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
 </a>
 
-<a href="https://www.linkedin.com/in/thayna-nunes-alvarenga">
-  <img src="https://img.shields.io/badge/LinkedIn-070B10?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<a href="mailto:SEU_EMAIL">
+  <img
+    src="https://img.shields.io/badge/EMAIL-22D3EE?style=for-the-badge&logo=gmail&logoColor=070B10"
+    alt="Email"
+  />
 </a>
 
-<a href="mailto:thaynanunes385@gmail.com">
-  <img src="https://img.shields.io/badge/E--mail-070B10?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
-</a>
-
-<a href="https://github.com/ThaynaAlvarenga">
-  <img src="https://img.shields.io/badge/GitHub-070B10?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<a href="https://github.com/ThaynaAlvarenga" target="_blank">
+  <img
+    src="https://img.shields.io/badge/GITHUB-070B10?style=for-the-badge&logo=github&logoColor=22D3EE"
+    alt="GitHub"
+  />
 </a>
 
 </div>
 
+<br />
+
+<div align="center">
+
+```text
+> CONNECTION_STATUS
+
+[●] GITHUB        ONLINE
+[●] LINKEDIN      AVAILABLE
+[●] COLLABORATION OPEN
+
+SYSTEM READY
+
+```
 ---
 
 <div align="center">
 
-<img src="./assets/system-core.svg" width="140" alt="System Core">
-
-### `SYSTEM STATUS: ONLINE`
+<br />
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=3500&pause=1200&color=22D3EE&center=true&vCenter=true&width=600&lines=%3E+connection+established;%3E+engineering+profile+loaded;%3E+systems+ready;%3E+ready+to+build"
-  alt="System Status"
+  src="./assets/ai-core.svg"
+  width="500"
+  alt="Engineering System"
 />
 
-<br><br>
+<br />
 
-`BUILD` · `INTEGRATE` · `AUTOMATE` · `INNOVATE`
-
-<br><br>
+### `BUILD · INTEGRATE · AUTOMATE · EVOLVE`
 
 <sub>
-Transformando problemas reais em sistemas de software.
+Software Engineering · Full Stack Development · AI · Systems Integration
+</sub>
+
+<br />
+<br />
+
+<sub>
+© Thayna Nunes · Software Engineer
 </sub>
 
 </div>
-
