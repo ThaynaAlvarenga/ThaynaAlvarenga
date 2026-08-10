@@ -93,78 +93,120 @@ manutenível, escalável e útil para o negócio.
 
 <td width="33%" valign="top">
 
-### 🚚 Freight Operations
+<div align="center">
 
-Plataforma web para gestão de operações de frete, envolvendo programação, cotação, negociação, transportadoras e acompanhamento operacional.
+### 🚚
 
-**Destaques**
+### FREIGHT OPERATIONS
 
-- Gestão de fluxos logísticos
-- Regras de negócio complexas
+`LOGISTICS PLATFORM`
+
+</div>
+
+---
+
+**Problema**
+
+Gestão de operações de frete envolvendo programação, cotação, negociação, transportadoras e acompanhamento operacional.
+
+**Sistema**
+
+- Fluxos logísticos
+- Regras de negócio
 - Interfaces corporativas
-- Integração entre diferentes perfis
+- Integração de perfis
 
 **Stack**
 
-`React` `TypeScript` `Node.js` `REST API`
+`React` `TypeScript` `Node.js`
 
-<br />
+<div align="center">
 
 <a href="SEU_LINK_DO_CASE_FREIGHT">
-  Ver projeto →
+  <img src="https://img.shields.io/badge/VER_CASE-070B10?style=for-the-badge&logo=github&logoColor=22D3EE" />
 </a>
+
+</div>
 
 </td>
 
 <td width="33%" valign="top">
 
-### 👁️ AI Vision
+<div align="center">
 
-Sistema de classificação de imagens utilizando visão computacional e inteligência artificial, integrado ao processo operacional.
+### 👁️
 
-**Destaques**
+### AI VISION
 
-- Captura e processamento de imagens
-- Classificação por IA
-- Pipeline de processamento
+`COMPUTER VISION`
+
+</div>
+
+---
+
+**Problema**
+
+Automação da classificação de imagens capturadas durante um processo operacional.
+
+**Sistema**
+
+- Captura de imagens
+- Processamento por IA
+- Classificação automática
 - API de feedback
-- Geração de relatórios
+- Relatórios
 
 **Stack**
 
-`Python` `TensorFlow` `OpenCV` `FastAPI`
+`Python` `TensorFlow` `OpenCV`
 
-<br />
+<div align="center">
 
 <a href="SEU_LINK_DO_CASE_AI_VISION">
-  Ver projeto →
+  <img src="https://img.shields.io/badge/VER_CASE-070B10?style=for-the-badge&logo=github&logoColor=22D3EE" />
 </a>
+
+</div>
 
 </td>
 
 <td width="33%" valign="top">
 
-### 📄 Document AI
+<div align="center">
 
-Sistema voltado à automação do processamento de documentos, transformando informações não estruturadas em dados organizados.
+### 📄
 
-**Destaques**
+### DOCUMENT AI
+
+`DOCUMENT AUTOMATION`
+
+</div>
+
+---
+
+**Problema**
+
+Automação do processamento de documentos e transformação de informações não estruturadas em dados organizados.
+
+**Sistema**
 
 - OCR
 - Extração de informações
 - Validação
 - Estruturação de dados
-- Automação de processos
+- Automação
 
 **Stack**
 
-`Python` `OCR` `APIs` `Automation`
+`Python` `OCR` `APIs`
 
-<br />
+<div align="center">
 
 <a href="SEU_LINK_DO_CASE_DOCUMENT_AI">
-  Ver projeto →
+  <img src="https://img.shields.io/badge/VER_CASE-070B10?style=for-the-badge&logo=github&logoColor=22D3EE" />
 </a>
+
+</div>
 
 </td>
 
