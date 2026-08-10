@@ -70,3 +70,113 @@ manutenível, escalável e útil para o negócio.
 </p>
 
 <br />
+
+## `> PROJETOS_EM_DESTAQUE`
+
+<table>
+<tr>
+
+<td width="33%" valign="top">
+
+### 🚚 Freight Operations
+
+Plataforma web para gestão de operações de frete, envolvendo programação, cotação, negociação, transportadoras e acompanhamento operacional.
+
+**Destaques**
+
+- Gestão de fluxos logísticos
+- Regras de negócio complexas
+- Interfaces corporativas
+- Integração entre diferentes perfis
+
+**Stack**
+
+`React` `TypeScript` `Node.js` `REST API`
+
+<br />
+
+<a href="SEU_LINK_DO_CASE_FREIGHT">
+  Ver projeto →
+</a>
+
+</td>
+
+<td width="33%" valign="top">
+
+### 👁️ AI Vision
+
+Sistema de classificação de imagens utilizando visão computacional e inteligência artificial, integrado ao processo operacional.
+
+**Destaques**
+
+- Captura e processamento de imagens
+- Classificação por IA
+- Pipeline de processamento
+- API de feedback
+- Geração de relatórios
+
+**Stack**
+
+`Python` `TensorFlow` `OpenCV` `FastAPI`
+
+<br />
+
+<a href="SEU_LINK_DO_CASE_AI_VISION">
+  Ver projeto →
+</a>
+
+</td>
+
+<td width="33%" valign="top">
+
+### 📄 Document AI
+
+Sistema voltado à automação do processamento de documentos, transformando informações não estruturadas em dados organizados.
+
+**Destaques**
+
+- OCR
+- Extração de informações
+- Validação
+- Estruturação de dados
+- Automação de processos
+
+**Stack**
+
+`Python` `OCR` `APIs` `Automation`
+
+<br />
+
+<a href="SEU_LINK_DO_CASE_DOCUMENT_AI">
+  Ver projeto →
+</a>
+
+</td>
+
+</tr>
+</table>
+
+<br />
+
+## `> FOCO_ATUAL`
+
+```text
+$ status
+
+[SISTEMA] Perfil profissional ativo
+[FOCO] Engenharia de Software
+
+$ atualmente_estudando
+
+→ Arquitetura de Software
+→ Desenvolvimento Full Stack
+→ Inteligência Artificial
+→ Integração de Sistemas
+→ Automação de Processos
+
+$ objetivo
+
+Construir sistemas bem estruturados, integráveis e escaláveis,
+transformando problemas reais de negócio em soluções de software.
+```
+
