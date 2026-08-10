@@ -184,6 +184,20 @@ Aplicação de inteligência artificial, visão computacional e automação para
 
 <br />
 
+## `> ATIVIDADE_NO_GITHUB`
+
+<div align="center">
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=ThaynaAlvarenga&bg_color=070B10&color=22D3EE&line=3B82F6&point=22D3EE&area=true&hide_border=true"
+  width="95%"
+  alt="Atividade no GitHub"
+/>
+
+</div>
+
+<br />
+
 ## `> PROJETOS_EM_DESTAQUE`
 
 <table>
