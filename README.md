@@ -336,6 +336,98 @@ Aplicação de inteligência artificial, visão computacional e automação para
 
 <br />
 
+## `> FEATURED_CASES`
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="33%" valign="top">
+
+<div align="center">
+
+<img
+  src="URL_DA_IMAGEM_DO_FREIGHT"
+  width="100%"
+  alt="Freight Operations"
+/>
+
+### FREIGHT OPERATIONS
+
+`LOGISTICS`
+
+Plataforma para gerenciamento de operações logísticas, conectando processos, transportadoras e acompanhamento operacional.
+
+<br />
+
+<a href="SEU_LINK_DO_CASE_FREIGHT">
+  <img src="https://img.shields.io/badge/CASE_STUDY-070B10?style=for-the-badge&logo=github&logoColor=22D3EE" />
+</a>
+
+</div>
+
+</td>
+
+<td width="33%" valign="top">
+
+<div align="center">
+
+<img
+  src="URL_DA_IMAGEM_DO_AI_VISION"
+  width="100%"
+  alt="AI Vision"
+/>
+
+### AI VISION
+
+`COMPUTER VISION`
+
+Sistema de classificação de imagens utilizando visão computacional e inteligência artificial.
+
+<br />
+
+<a href="SEU_LINK_DO_CASE_AI_VISION">
+  <img src="https://img.shields.io/badge/CASE_STUDY-070B10?style=for-the-badge&logo=github&logoColor=22D3EE" />
+</a>
+
+</div>
+
+</td>
+
+<td width="33%" valign="top">
+
+<div align="center">
+
+<img
+  src="URL_DA_IMAGEM_DO_DOCUMENT_AI"
+  width="100%"
+  alt="Document AI"
+/>
+
+### DOCUMENT AI
+
+`AUTOMATION`
+
+Sistema para processamento e estruturação automatizada de documentos e informações.
+
+<br />
+
+<a href="SEU_LINK_DO_CASE_DOCUMENT_AI">
+  <img src="https://img.shields.io/badge/CASE_STUDY-070B10?style=for-the-badge&logo=github&logoColor=22D3EE" />
+</a>
+
+</div>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<br />
+
 ## `> PROJETOS_EM_DESTAQUE`
 
 <table>
