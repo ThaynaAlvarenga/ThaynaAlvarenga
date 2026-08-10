@@ -1,0 +1,340 @@
+<svg width="700" height="320" viewBox="0 0 700 320"
+xmlns="http://www.w3.org/2000/svg">
+
+<defs>
+
+  <linearGradient id="routeGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#22D3EE"/>
+    <stop offset="50%" stop-color="#3B82F6"/>
+    <stop offset="100%" stop-color="#8B5CF6"/>
+  </linearGradient>
+
+  <filter id="glow">
+    <feGaussianBlur stdDeviation="3" result="blur"/>
+    <feMerge>
+      <feMergeNode in="blur"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+
+</defs>
+
+<!-- Interface -->
+
+<rect
+  x="40"
+  y="30"
+  width="620"
+  height="250"
+  rx="12"
+  fill="#070B10"
+  stroke="#1E293B"
+/>
+
+<!-- Header -->
+
+<text
+  x="70"
+  y="65"
+  fill="#22D3EE"
+  font-family="monospace"
+  font-size="12"
+  letter-spacing="3"
+>
+FREIGHT OPERATIONS
+</text>
+
+<text
+  x="630"
+  y="65"
+  text-anchor="end"
+  fill="#64748B"
+  font-family="monospace"
+  font-size="10"
+>
+LOGISTICS SYSTEM
+</text>
+
+<!-- Map area -->
+
+<rect
+  x="70"
+  y="90"
+  width="370"
+  height="150"
+  rx="6"
+  fill="#0B1118"
+  stroke="#172033"
+/>
+
+<!-- Map grid -->
+
+<g
+  stroke="#172033"
+  stroke-width="1"
+  opacity="0.7"
+>
+
+  <line x1="100" y1="90" x2="100" y2="240"/>
+  <line x1="140" y1="90" x2="140" y2="240"/>
+  <line x1="180" y1="90" x2="180" y2="240"/>
+  <line x1="220" y1="90" x2="220" y2="240"/>
+  <line x1="260" y1="90" x2="260" y2="240"/>
+  <line x1="300" y1="90" x2="300" y2="240"/>
+  <line x1="340" y1="90" x2="340" y2="240"/>
+  <line x1="380" y1="90" x2="380" y2="240"/>
+  <line x1="420" y1="90" x2="420" y2="240"/>
+
+  <line x1="70" y1="120" x2="440" y2="120"/>
+  <line x1="70" y1="150" x2="440" y2="150"/>
+  <line x1="70" y1="180" x2="440" y2="180"/>
+  <line x1="70" y1="210" x2="440" y2="210"/>
+
+</g>
+
+<!-- Secondary roads -->
+
+<path
+  d="M85 215 C145 180 145 120 220 135
+     C285 150 300 205 370 190
+     C395 185 410 165 430 150"
+  fill="none"
+  stroke="#334155"
+  stroke-width="2"
+/>
+
+<path
+  d="M80 105 C150 125 170 180 240 175
+     C300 170 325 115 430 110"
+  fill="none"
+  stroke="#1E293B"
+  stroke-width="2"
+/>
+
+<!-- Main route -->
+
+<path
+  d="M100 205
+     C155 190 175 145 225 150
+     C285 155 305 210 350 185
+     C380 168 390 135 425 115"
+  fill="none"
+  stroke="#172033"
+  stroke-width="5"
+/>
+
+<path
+  d="M100 205
+     C155 190 175 145 225 150
+     C285 155 305 210 350 185
+     C380 168 390 135 425 115"
+  fill="none"
+  stroke="url(#routeGradient)"
+  stroke-width="2"
+  stroke-dasharray="8 8"
+>
+
+  <animate
+    attributeName="stroke-dashoffset"
+    from="0"
+    to="-48"
+    dur="2s"
+    repeatCount="indefinite"
+  />
+
+</path>
+
+<!-- Origin -->
+
+<circle
+  cx="100"
+  cy="205"
+  r="8"
+  fill="#070B10"
+  stroke="#22D3EE"
+  stroke-width="2"
+/>
+
+<circle
+  cx="100"
+  cy="205"
+  r="3"
+  fill="#22D3EE"
+  filter="url(#glow)"
+/>
+
+<text
+  x="100"
+  y="228"
+  text-anchor="middle"
+  fill="#64748B"
+  font-family="monospace"
+  font-size="9"
+>
+ORIGIN
+</text>
+
+<!-- Intermediate -->
+
+<circle
+  cx="225"
+  cy="150"
+  r="6"
+  fill="#070B10"
+  stroke="#3B82F6"
+  stroke-width="2"
+/>
+
+<circle
+  cx="350"
+  cy="185"
+  r="6"
+  fill="#070B10"
+  stroke="#6366F1"
+  stroke-width="2"
+/>
+
+<!-- Destination -->
+
+<circle
+  cx="425"
+  cy="115"
+  r="8"
+  fill="#070B10"
+  stroke="#8B5CF6"
+  stroke-width="2"
+/>
+
+<circle
+  cx="425"
+  cy="115"
+  r="3"
+  fill="#8B5CF6"
+  filter="url(#glow)"
+/>
+
+<text
+  x="425"
+  y="98"
+  text-anchor="middle"
+  fill="#64748B"
+  font-family="monospace"
+  font-size="9"
+>
+DESTINATION
+</text>
+
+<!-- Moving vehicle -->
+
+<g filter="url(#glow)">
+
+  <rect
+    x="-7"
+    y="-4"
+    width="14"
+    height="8"
+    rx="2"
+    fill="#FFFFFF"
+  />
+
+  <circle
+    cx="-4"
+    cy="5"
+    r="2"
+    fill="#22D3EE"
+  />
+
+  <circle
+    cx="4"
+    cy="5"
+    r="2"
+    fill="#22D3EE"
+  />
+
+</g>
+
+<animateMotion
+  path="M100 205
+        C155 190 175 145 225 150
+        C285 155 305 210 350 185
+        C380 168 390 135 425 115"
+  dur="5s"
+  repeatCount="indefinite"
+/>
+
+<!-- Data panel -->
+
+<text
+  x="470"
+  y="105"
+  fill="#64748B"
+  font-family="monospace"
+  font-size="10"
+>
+LOAD
+</text>
+
+<text
+  x="470"
+  y="125"
+  fill="#E2E8F0"
+  font-family="monospace"
+  font-size="15"
+  font-weight="bold"
+>
+#TRK-2841
+</text>
+
+<text
+  x="470"
+  y="155"
+  fill="#64748B"
+  font-family="monospace"
+  font-size="10"
+>
+STATUS
+</text>
+
+<text
+  x="470"
+  y="175"
+  fill="#22D3EE"
+  font-family="monospace"
+  font-size="12"
+>
+● IN TRANSIT
+</text>
+
+<text
+  x="470"
+  y="205"
+  fill="#64748B"
+  font-family="monospace"
+  font-size="10"
+>
+ETA
+</text>
+
+<text
+  x="470"
+  y="225"
+  fill="#E2E8F0"
+  font-family="monospace"
+  font-size="14"
+>
+14:32
+</text>
+
+<!-- Footer -->
+
+<text
+  x="70"
+  y="265"
+  fill="#475569"
+  font-family="monospace"
+  font-size="9"
+>
+PLANNING → ROUTING → TRACKING → DELIVERY
+</text>
+
+</svg>

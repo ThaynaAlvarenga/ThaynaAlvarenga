@@ -355,9 +355,9 @@ Aplicação de inteligência artificial, visão computacional e automação para
 <div align="center">
 
 <img
-  src="URL_DA_IMAGEM_DO_FREIGHT"
+  src="./assets/freight-route.svg"
   width="100%"
-  alt="Freight Operations"
+  alt="Freight Operations Route System"
 />
 
 ### FREIGHT OPERATIONS
@@ -381,9 +381,9 @@ Plataforma para gerenciamento de operações logísticas, conectando processos, 
 <div align="center">
 
 <img
-  src="URL_DA_IMAGEM_DO_AI_VISION"
+  src="./assets/ai-vision-scanner.svg"
   width="100%"
-  alt="AI Vision"
+  alt="AI Vision Scanner"
 />
 
 ### AI VISION
@@ -407,9 +407,9 @@ Sistema de classificação de imagens utilizando visão computacional e intelig�
 <div align="center">
 
 <img
-  src="URL_DA_IMAGEM_DO_DOCUMENT_AI"
+  src="./assets/document-ai.svg"
   width="100%"
-  alt="Document AI"
+  alt="Document AI Data Extraction"
 />
 
 ### DOCUMENT AI
