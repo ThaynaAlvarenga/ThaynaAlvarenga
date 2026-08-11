@@ -1,7 +1,4 @@
 <!--
-  TODO antes de publicar / TODO before publishing:
-  1) Substitua os 3 links "SEU_LINK_PORTFOLIO/..." pelos endereços reais das páginas de case do seu portfólio.
-  2) Confirme se quer manter o e-mail thaynanunes385@gmail.com público (o telefone eu deixei de fora de propósito, por segurança/spam — LinkedIn já cobre esse contato).
 -->
 
 <div align="center">
@@ -36,7 +33,7 @@
 ```text
 Desenvolvedora Full Stack com mais de 4 anos de experiência,
 atuando como PJ desde 2022 na condução de projetos do zero à
-entrega — da arquitetura à implementação em produção.
+entrega da arquitetura à implementação em produção.
 
 Trabalho diretamente com clientes para traduzir necessidades de
 negócio em soluções técnicas: aplicações web, integrações entre
@@ -44,7 +41,7 @@ sistemas via API, automação de processos com n8n e Make, e
 dashboards analíticos em Power BI para apoiar decisões.
 
 Perfil autônomo e analítico, com hábito de aprendizado contínuo
-e comunicação clara — inclusive em espanhol fluente, o que já
+e comunicação clara inclusive em espanhol fluente, o que já
 foi decisivo em projetos com integrações internacionais.
 ```
 
@@ -53,7 +50,7 @@ foi decisivo em projetos com integrações internacionais.
 
 ```text
 Full Stack Developer with 4+ years of experience, working as an
-independent contractor since 2022, leading projects end to end —
+independent contractor since 2022, leading projects end to end
 from architecture to production deployment.
 
 I work directly with clients to translate business needs into
@@ -62,7 +59,7 @@ integrations, process automation with n8n and Make, and Power BI
 analytics dashboards to support decision-making.
 
 Autonomous and analytical profile, with a habit of continuous
-learning and clear communication — including fluent Spanish,
+learning and clear communication including fluent Spanish,
 which has been decisive in projects involving international
 integrations.
 ```
@@ -224,7 +221,7 @@ Integrations
 Aplicações web, mobile e desktop do zero à produção, com foco em escalabilidade e usabilidade.
 <br />
 <sub><i>Web, mobile and desktop applications from zero to production, focused on scalability and usability.</i></sub>
-
+<br />
 </td>
 
 <td width="33%" align="center">
@@ -236,7 +233,7 @@ Aplicações web, mobile e desktop do zero à produção, com foco em escalabili
 APIs REST e comunicação entre sistemas heterogêneos, unindo diferentes plataformas em um fluxo único.
 <br />
 <sub><i>REST APIs and communication across heterogeneous systems, unifying different platforms into one flow.</i></sub>
-
+<br />
 </td>
 
 <td width="33%" align="center">
@@ -248,7 +245,7 @@ APIs REST e comunicação entre sistemas heterogêneos, unindo diferentes plataf
 Fluxos operacionais automatizados com n8n e Make, reduzindo retrabalho manual mensurável.
 <br />
 <sub><i>Operational flows automated with n8n and Make, measurably reducing manual rework.</i></sub>
-
+<br />
 </td>
 
 </tr>
@@ -264,7 +261,7 @@ Fluxos operacionais automatizados com n8n e Make, reduzindo retrabalho manual me
 Dashboards analíticos em Power BI para apoiar decisões de negócio com dados reais.
 <br />
 <sub><i>Power BI analytics dashboards to support business decisions with real data.</i></sub>
-
+<br />
 </td>
 
 <td width="33%" align="center">
@@ -273,10 +270,10 @@ Dashboards analíticos em Power BI para apoiar decisões de negócio com dados r
 
 ### EVOLUIR · EVOLVE
 
-Arquitetura pensada para manutenção, novas integrações e crescimento — não só para o dia 1.
+Arquitetura pensada para manutenção, novas integrações e crescimento não só para o dia 1.
 <br />
-<sub><i>Architecture designed for maintenance, new integrations and growth — not just day one.</i></sub>
-
+<sub><i>Architecture designed for maintenance, new integrations and growth not just day one.</i></sub>
+<br />
 </td>
 
 <td width="33%" align="center">
@@ -288,7 +285,7 @@ Arquitetura pensada para manutenção, novas integrações e crescimento — nã
 Condução de projetos do zero à entrega, do levantamento de requisitos à produção.
 <br />
 <sub><i>Leading projects end to end, from requirements gathering to production.</i></sub>
-
+<br />
 </td>
 
 </tr>
@@ -330,7 +327,7 @@ Plataforma para gerenciamento de operações logísticas, conectando processos, 
 
 <br />
 
-<a href="SEU_LINK_PORTFOLIO/freight-operations">
+<a href="https://thaynanunes-portfolio.vercel.app/projetos/freight-operations-management">
   <img src="https://img.shields.io/badge/CASE_STUDY-070B10?style=for-the-badge&logo=github&logoColor=22D3EE" />
 </a>
 
@@ -352,9 +349,9 @@ Plataforma para gerenciamento de operações logísticas, conectando processos, 
 
 `COMPUTER VISION`
 
-Sistema de classificação de imagens com IA e visão computacional — atuação focada na integração e evolução dos módulos do sistema.
+Sistema de classificação de imagens com IA e visão computacional atuação focada na integração e evolução dos módulos do sistema.
 <br />
-<sub><i>AI-powered image classification system with computer vision — focused on integrating and evolving the system's modules.</i></sub>
+<sub><i>AI-powered image classification system with computer vision focused on integrating and evolving the system's modules.</i></sub>
 
 <br /><br />
 
@@ -362,7 +359,7 @@ Sistema de classificação de imagens com IA e visão computacional — atuaçã
 
 <br />
 
-<a href="SEU_LINK_PORTFOLIO/ai-vision">
+<a href="https://thaynanunes-portfolio.vercel.app/projetos/ai-vision">
   <img src="https://img.shields.io/badge/CASE_STUDY-070B10?style=for-the-badge&logo=github&logoColor=22D3EE" />
 </a>
 
@@ -394,7 +391,7 @@ Sistema para processamento e estruturação automatizada de documentos e informa
 
 <br />
 
-<a href="SEU_LINK_PORTFOLIO/document-ai">
+<a href="https://thaynanunes-portfolio.vercel.app/projetos/intelligent-document-processing">
   <img src="https://img.shields.io/badge/CASE_STUDY-070B10?style=for-the-badge&logo=github&logoColor=22D3EE" />
 </a>
 
@@ -479,6 +476,7 @@ $ atualmente_estudando
 → Arquitetura de Software
 → Inteligência Artificial aplicada
 → Integração de sistemas em maior escala
+→ Soluções de Cibersegurança
 
 $ objetivo
 
