@@ -1,7 +1,7 @@
 <!--
   TODO antes de publicar / TODO before publishing:
-  1) Substitua SEU-LINKEDIN, SEU_EMAIL e os links de case study abaixo.
-  2) Confirme se quer manter os 3 SVGs de case (freight-route, ai-vision-scanner, document-ai) e o novo bloco "promocoes".
+  1) Substitua os 3 links "SEU_LINK_PORTFOLIO/..." pelos endereços reais das páginas de case do seu portfólio.
+  2) Confirme se quer manter o e-mail thaynanunes385@gmail.com público (o telefone eu deixei de fora de propósito, por segurança/spam — LinkedIn já cobre esse contato).
 -->
 
 <div align="center">
@@ -34,33 +34,37 @@
 ## `> SOBRE_MIM`
 
 ```text
-Sou Engenheira de Software com foco no desenvolvimento de sistemas
-reais, atuando desde experiências frontend até serviços backend,
-APIs, integrações e automações.
+Desenvolvedora Full Stack com mais de 4 anos de experiência,
+atuando como PJ desde 2022 na condução de projetos do zero à
+entrega — da arquitetura à implementação em produção.
 
-Atuo principalmente com Desenvolvimento Full Stack, Arquitetura de
-Software, Integração de Sistemas, Automação de Processos e
-Inteligência Artificial.
+Trabalho diretamente com clientes para traduzir necessidades de
+negócio em soluções técnicas: aplicações web, integrações entre
+sistemas via API, automação de processos com n8n e Make, e
+dashboards analíticos em Power BI para apoiar decisões.
 
-Minha abordagem começa pela compreensão do problema, seguida pelo
-desenho da solução e pela construção de software organizado,
-manutenível, escalável e útil para o negócio.
+Perfil autônomo e analítico, com hábito de aprendizado contínuo
+e comunicação clara — inclusive em espanhol fluente, o que já
+foi decisivo em projetos com integrações internacionais.
 ```
 
 <details>
 <summary>🇺🇸 <b>Read in English</b></summary>
 
 ```text
-I'm a Software Engineer focused on building real-world systems,
-working across frontend, backend services, APIs, integrations
-and automation.
+Full Stack Developer with 4+ years of experience, working as an
+independent contractor since 2022, leading projects end to end —
+from architecture to production deployment.
 
-I work mainly with Full Stack Development, Software Architecture,
-Systems Integration, Process Automation and Artificial Intelligence.
+I work directly with clients to translate business needs into
+technical solutions: web applications, API-based system
+integrations, process automation with n8n and Make, and Power BI
+analytics dashboards to support decision-making.
 
-My approach starts with understanding the problem, then designing
-the solution, then building software that is organized,
-maintainable, scalable and useful to the business.
+Autonomous and analytical profile, with a habit of continuous
+learning and clear communication — including fluent Spanish,
+which has been decisive in projects involving international
+integrations.
 ```
 
 </details>
@@ -83,34 +87,50 @@ maintainable, scalable and useful to the business.
 
 ## `> TECNOLOGIAS`
 
+### Linguagens
+
+<p>
+  <img src="https://skillicons.dev/icons?i=py,java,cpp,js,ts" />
+</p>
+
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
 </p>
 
 ### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,python" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,python,fastapi" />
 </p>
 
-### Banco de Dados
+### Dados & BI
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,firebase" />
+  <img src="https://img.shields.io/badge/Power_BI-070B10?style=for-the-badge&logo=powerbi&logoColor=F2C811" />
 </p>
 
-### Inteligência Artificial & Automação
+### Integração & Automação
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv" />
+  <img src="https://img.shields.io/badge/n8n-070B10?style=for-the-badge&logo=n8n&logoColor=22D3EE" />
+  <img src="https://img.shields.io/badge/Make_(Integromat)-070B10?style=for-the-badge&logoColor=22D3EE" />
+  <img src="https://img.shields.io/badge/REST_APIs-070B10?style=for-the-badge&logoColor=22D3EE" />
+  <img src="https://img.shields.io/badge/Webhooks-070B10?style=for-the-badge&logoColor=22D3EE" />
 </p>
 
-### Ferramentas & Infraestrutura
+### Ferramentas & Metodologias
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,vscode" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Scrum-070B10?style=for-the-badge&logoColor=8B7CF6" />
+  <img src="https://img.shields.io/badge/Kanban-070B10?style=for-the-badge&logoColor=8B7CF6" />
+  <img src="https://img.shields.io/badge/Postman-070B10?style=for-the-badge&logo=postman&logoColor=FF6C37" />
+  <img src="https://img.shields.io/badge/Notion-070B10?style=for-the-badge&logo=notion&logoColor=white" />
 </p>
 
 <br />
@@ -152,8 +172,8 @@ REST APIs
 
 PostgreSQL
 MySQL
-MongoDB
-Prisma
+Firebase
+Power BI
 SQL
 
 </td>
@@ -173,10 +193,10 @@ Machine Learning
 
 ### AUTOMATION
 
-APIs
-Webhooks
 n8n
-Process Automation
+Make
+Webhooks
+APIs
 Integrations
 
 </td>
@@ -201,9 +221,9 @@ Integrations
 
 ### CONSTRUIR · BUILD
 
-Aplicações web completas, do frontend ao backend, conectando interfaces, regras de negócio, APIs e dados.
+Aplicações web, mobile e desktop do zero à produção, com foco em escalabilidade e usabilidade.
 <br />
-<sub><i>Full web applications, front to back, connecting interfaces, business rules, APIs and data.</i></sub>
+<sub><i>Web, mobile and desktop applications from zero to production, focused on scalability and usability.</i></sub>
 
 </td>
 
@@ -213,9 +233,9 @@ Aplicações web completas, do frontend ao backend, conectando interfaces, regra
 
 ### INTEGRAR · INTEGRATE
 
-Conectar sistemas, serviços e APIs para transformar diferentes componentes em um fluxo único.
+APIs REST e comunicação entre sistemas heterogêneos, unindo diferentes plataformas em um fluxo único.
 <br />
-<sub><i>Connecting systems, services and APIs into a single, coherent flow.</i></sub>
+<sub><i>REST APIs and communication across heterogeneous systems, unifying different platforms into one flow.</i></sub>
 
 </td>
 
@@ -225,9 +245,9 @@ Conectar sistemas, serviços e APIs para transformar diferentes componentes em u
 
 ### AUTOMATIZAR · AUTOMATE
 
-Transformar processos manuais em fluxos digitais mais eficientes, rastreáveis e escaláveis.
+Fluxos operacionais automatizados com n8n e Make, reduzindo retrabalho manual mensurável.
 <br />
-<sub><i>Turning manual processes into efficient, traceable, scalable digital flows.</i></sub>
+<sub><i>Operational flows automated with n8n and Make, measurably reducing manual rework.</i></sub>
 
 </td>
 
@@ -241,9 +261,9 @@ Transformar processos manuais em fluxos digitais mais eficientes, rastreáveis e
 
 ### ANALISAR · ANALYZE
 
-Utilizar dados, processamento e inteligência artificial para apoiar decisões e classificação automatizada.
+Dashboards analíticos em Power BI para apoiar decisões de negócio com dados reais.
 <br />
-<sub><i>Using data, processing and AI to support decisions and automated classification.</i></sub>
+<sub><i>Power BI analytics dashboards to support business decisions with real data.</i></sub>
 
 </td>
 
@@ -253,9 +273,9 @@ Utilizar dados, processamento e inteligência artificial para apoiar decisões e
 
 ### EVOLUIR · EVOLVE
 
-Projetar sistemas preparados para manutenção, novas integrações e expansão de funcionalidades.
+Arquitetura pensada para manutenção, novas integrações e crescimento — não só para o dia 1.
 <br />
-<sub><i>Designing systems ready for maintenance, new integrations and feature growth.</i></sub>
+<sub><i>Architecture designed for maintenance, new integrations and growth — not just day one.</i></sub>
 
 </td>
 
@@ -265,9 +285,9 @@ Projetar sistemas preparados para manutenção, novas integrações e expansão 
 
 ### RESOLVER · SOLVE
 
-Partir de problemas reais e transformá-los em soluções de software aplicáveis ao negócio.
+Condução de projetos do zero à entrega, do levantamento de requisitos à produção.
 <br />
-<sub><i>Starting from real problems and turning them into applicable business software.</i></sub>
+<sub><i>Leading projects end to end, from requirements gathering to production.</i></sub>
 
 </td>
 
@@ -310,7 +330,7 @@ Plataforma para gerenciamento de operações logísticas, conectando processos, 
 
 <br />
 
-<a href="SEU_LINK_DO_CASE_FREIGHT">
+<a href="SEU_LINK_PORTFOLIO/freight-operations">
   <img src="https://img.shields.io/badge/CASE_STUDY-070B10?style=for-the-badge&logo=github&logoColor=22D3EE" />
 </a>
 
@@ -342,7 +362,7 @@ Sistema de classificação de imagens com IA e visão computacional — atuaçã
 
 <br />
 
-<a href="SEU_LINK_DO_CASE_AI_VISION">
+<a href="SEU_LINK_PORTFOLIO/ai-vision">
   <img src="https://img.shields.io/badge/CASE_STUDY-070B10?style=for-the-badge&logo=github&logoColor=22D3EE" />
 </a>
 
@@ -374,7 +394,7 @@ Sistema para processamento e estruturação automatizada de documentos e informa
 
 <br />
 
-<a href="SEU_LINK_DO_CASE_DOCUMENT_AI">
+<a href="SEU_LINK_PORTFOLIO/document-ai">
   <img src="https://img.shields.io/badge/CASE_STUDY-070B10?style=for-the-badge&logo=github&logoColor=22D3EE" />
 </a>
 
@@ -413,6 +433,39 @@ Plataforma Full Stack de promoções do comércio local (TCC) — React, Node.js
 
 <br />
 
+## `> FORMAÇÃO`
+
+```text
+🎓 Ciência da Computação
+   2026 – 2028 · em andamento
+
+🎓 Tecnologia em Análise e Desenvolvimento de Sistemas
+   2022 – 2025 · concluído · Faculdade Eduvale de Avaré
+```
+
+<details>
+<summary>🇺🇸 <b>Read in English</b></summary>
+
+```text
+🎓 Computer Science
+   2026 – 2028 · in progress
+
+🎓 Systems Analysis and Development (Technology degree)
+   2022 – 2025 · completed · Faculdade Eduvale de Avaré
+```
+
+</details>
+
+<br />
+
+## `> IDIOMAS`
+
+🇧🇷 Português — nativo · 🇺🇸 Inglês — intermediário · 🇪🇸 Espanhol — fluente
+
+<sub><i>🇧🇷 Portuguese — native · 🇺🇸 English — intermediate · 🇪🇸 Spanish — fluent</i></sub>
+
+<br />
+
 ## `> FOCO_ATUAL`
 
 ```text
@@ -424,15 +477,13 @@ $ status
 $ atualmente_estudando
 
 → Arquitetura de Software
-→ Desenvolvimento Full Stack
-→ Inteligência Artificial
-→ Integração de Sistemas
-→ Automação de Processos
+→ Inteligência Artificial aplicada
+→ Integração de sistemas em maior escala
 
 $ objetivo
 
-Construir sistemas bem estruturados, integráveis e escaláveis,
-transformando problemas reais de negócio em soluções de software.
+Aprofundar arquitetura de sistemas e IA aplicada,
+seguindo com projetos que unam automação, dados e produto real.
 ```
 
 <details>
@@ -447,15 +498,13 @@ $ status
 $ currently_studying
 
 → Software Architecture
-→ Full Stack Development
-→ Artificial Intelligence
-→ Systems Integration
-→ Process Automation
+→ Applied Artificial Intelligence
+→ Systems integration at larger scale
 
 $ goal
 
-Building well-structured, integrable and scalable systems,
-turning real business problems into software solutions.
+Deepening systems architecture and applied AI,
+continuing with projects that combine automation, data and real products.
 ```
 
 </details>
@@ -466,14 +515,14 @@ turning real business problems into software solutions.
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/SEU-LINKEDIN/" target="_blank">
+<a href="https://www.linkedin.com/in/thayna-nunes-alvarenga/" target="_blank">
   <img
     src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
     alt="LinkedIn"
   />
 </a>
 
-<a href="mailto:SEU_EMAIL">
+<a href="mailto:thaynanunes385@gmail.com">
   <img
     src="https://img.shields.io/badge/EMAIL-22D3EE?style=for-the-badge&logo=gmail&logoColor=070B10"
     alt="Email"
